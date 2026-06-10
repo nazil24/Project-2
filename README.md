@@ -14,3 +14,6 @@ Setiap kain memiliki warna yang berbeda, yang membantu membedakan jenis bahan.
 
 ### Dataset kain
 <img width="760" height="223" alt="image" src="https://github.com/user-attachments/assets/7cf427ea-f942-4293-9788-6bd210f656eb" />
+
+### Poster Academic
+<img width="3402" height="2268" alt="Poster Akademik" src="https://github.com/user-attachments/assets/c733ad74-f84c-4d60-83f9-26021837dac2" />
